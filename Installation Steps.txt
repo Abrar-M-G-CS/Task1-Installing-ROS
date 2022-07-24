@@ -1,0 +1,50 @@
+In this task we are going to user ROS operating system, I will explain what the ROS operating system is.
+ROS stands for Robot Operating System, it's not a full operating system it's a framework and a set of tools that provide functionality of an operating system,
+it contains packages that provides specialized functionality that are used to control robots. 
+
+In order to Install ROS Operating System, I had to first apply these sub tasks first: 
+
+1.	Install Oracle Virtual Machine 
+2.	Install Ubuntu 
+3.	Install ROS Operating System
+
+
+
+
+Sub-Task 1 : Installing Oracle Virtual Machine 
+        I have firstly downloaded the oracle Virtual machine from the official website then I installed the version 6.1
+        Installing Linux Operating System
+        
+        
+Sub-Task 2: Installing Ubuntu 
+        Secondly, I have installed the Linux Operating System in the oracle virtual machine using Ubuntu version
+        20.04.4 LTS (desktop image), since its compatible with the ROS operating system.
+
+
+
+
+Sub-task 3 :Installing the ROS Operating System
+
+        Lastly, I had to install the ROS Melodic Framework from their website into the ubuntu terminal,
+        and I followed the steps included, starting from the installation till the configuration of the system using 
+        the commands listed in the website. 
+        
+        
+        
+        
+Task 1: Challenges 
+
+The challenges the I have faced was choosing the correct version of ubuntu since I have tried multiple ones until
+I found out the 20.04.4 version was the best one and also the recommended one,I also have faced some problems installing
+ubuntu but the problem was about the version update but thankfully all worked out it turns out it was only
+a server problem from my side. 
+these were the only problems that I have faced and I figured out the solution using GitHub and also
+Stack Overflow website and watched a lot of YouTube videos that were all helpful. 
+
+
+
+Task 1: Learned Skills 
+
+The skilled that I have learned was to be self-taught in every task/sub task also,
+I have learned how to work in groups since we can communicate with our other colleagues and share our knowledge,
+I have learned about a new operating system ( ROS ) and I have learned how to install and use it using the Linux terminal.
